@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "ranges": "cpp",
+        "*.tcc": "cpp"
+    }
+}
